@@ -1,0 +1,14 @@
+@font-face {
+  font-family: font_a;
+  font-style: normal;
+  font-weight: 300;
+  src: url(/fonts/Open_Sans/OpenSans-Bold.ttf) format("ttf"),
+    url(/fonts/Open_Sans/OpenSans-BoldItalic.ttf) format("ttf"),
+    url(/fonts/Open_Sans/OpenSans-ExtraBold.ttf) format("ttf");
+}
+
+@font-face {
+  font-family: "Open-Saas-regular";
+  src: url(/fonts/Open_Sans/OpenSans-Regular.ttf) format("ttf");
+  font-weight: regular;
+}
