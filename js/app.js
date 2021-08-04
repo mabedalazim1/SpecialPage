@@ -2,7 +2,7 @@
 let landingPage = document.querySelector(".landing-page");
 
 //Get Array of Imgs
-let imgName = "/imgs/comp";
+let imgName = "./imgs/comp";
 let imgExt = ".jpg";
 let imgArray = [];
 for (i = 1; i <= 5; i++) {
